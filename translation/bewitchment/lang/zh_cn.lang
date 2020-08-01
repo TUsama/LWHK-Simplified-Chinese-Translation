@@ -411,7 +411,7 @@ item.bewitchment.silver_nugget.name=银粒
 item.bewitchment.cold_iron_nugget.name=寒铁粒
 item.bewitchment.salt.name=盐
 
-item.bewitchment.stew_of_the_grotesque.name=荒谬炖菜
+item.bewitchment.stew_of_the_grotesque.name=大乱炖
 
 item.bewitchment.unfired_jar.name=未烧制的粘土罐子
 item.bewitchment.empty_jar.name=空粘土罐子
@@ -760,6 +760,12 @@ tarot.not_pledged=%s 与这门黑暗艺术不再有关联了。
 
 tarot.is_cursed=%s 宁愿承受这一苦痛悲凉。
 tarot.is_not_cursed=%s 没有患上魔法带来的疾病。
+
+tarot.is_witch=%s walks the wicked path.
+tarot.is_hedgewitch=%s crosses paths with deer and elk.
+tarot.is_besmirched=%s dances at infernal orgies.
+tarot.is_alchemist=%s seeks the magnum opus.
+
 
 baphomet.getcontract=你接受了七天的 %s 作为施舍。
 baphomet.lowlevel=你的级别太低了。
@@ -1445,6 +1451,9 @@ entity.bewitchment.given_name.499=Vanity
 entity.bewitchment.given_name.500=Vainglory
 entity.bewitchment.given_name.501=Erichtho
 entity.bewitchment.given_name.502=Amatsu-Mikaboshi
+entity.bewitchment.given_name.503=Merihem
+entity.bewitchment.given_name.504=Pytho
+entity.bewitchment.given_name.505=Abaddon
 
 //Titles
 entity.bewitchment.prefix.0=王
