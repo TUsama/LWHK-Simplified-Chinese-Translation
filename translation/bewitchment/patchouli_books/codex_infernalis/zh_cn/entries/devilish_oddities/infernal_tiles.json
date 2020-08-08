@@ -106,7 +106,7 @@
 	  "title": "摩洛克",
 	  "recipe": "bewitchment:nether_brick_moloch_statue",
 	  "recipe2": "bewitchment:scorned_brick_moloch_statue",
-	  "text": "摩洛克奉献了自己，毫无保留。"
+	  "text": "摩洛克吞噬了祂能看到的所有东西。"
 	},
 	{
 	  "type": "text",
@@ -124,7 +124,7 @@
 	  "title": "伦纳德",
 	  "recipe": "bewitchment:nether_brick_leonard_idol",
 	  "recipe2": "bewitchment:scorned_brick_leonard_idol",
-	  "text": "Leonard is known as being the King of the Witches."
+	  "text": "伦纳德是女巫的王。"
 	},
 	{
 	  "type": "crafting",
@@ -176,7 +176,7 @@
 	  "title": "摩洛克",
 	  "recipe": "bewitchment:nether_brick_moloch_idol",
 	  "recipe2": "bewitchment:scorned_brick_moloch_idol",
-	  "text": "摩洛克奉献了自己，毫无保留。"
+	  "text": "摩洛克吞噬了祂能看到的所有东西。"
 	}
   ]
 }

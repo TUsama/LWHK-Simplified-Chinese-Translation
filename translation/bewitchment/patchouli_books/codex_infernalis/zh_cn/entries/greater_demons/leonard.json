@@ -5,11 +5,11 @@
   "pages": [
 	{
 	  "type": "text",
-	  "text": "一些仪式会谈到伦纳德的名讳，然而它所使用的名字可不仅仅只有这一个，森林中的黑羊，亚撒色，晨星，以及圣堂武士的虚假之王，这些都是伦纳德、However, many of these are contradictory, and he seems to be a demon that resides over witches."
+	  "text": "一些仪式会谈到伦纳德的名讳，然而它所使用的名字可不仅仅只有这一个，森林中的黑羊，亚撒色，晨星，以及圣堂武士的虚假之王，这些都是伦纳德。然而，面与面之间总存在着冲突与不协调，他似乎又是以恶魔的身份位居于女巫之首的王座上。"
 	},
 	{
 	  "type": "text",
-	  "text": "Those who summon him are usually forced to indulge in a foul mixture known as the Stew of the Grotesque while holding a Green Candle and wearing a full set of any witch robes, in order to receive his blessing."
+	  "text": "那些召唤他的女巫，将自己放纵于那种邪恶污秽的混合物之中，手持幽幽绿烛，身穿繁复长袍，试图以这样的方式换取伦纳德的的祝福。"
 	},
 	{
 	  "type": "entity",
@@ -18,8 +18,8 @@
 	},
 	{
 	  "type": "text",
-	  "title": "Summoning",
-	  "text": "Summoning Master Leonard is rather difficult, the blood of a lamb needs to be spilled for the ritual. I have documented the rite as follows:"
+	  "title": "召唤",
+	  "text": "召唤大师伦纳德并不困难，在仪式中倾撒些许羔羊之血即可。我将这一仪式记录在此："
 	},
 	{
 	  "type": "bewitchment:ritual",

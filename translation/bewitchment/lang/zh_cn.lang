@@ -395,12 +395,12 @@ tooltip.bewitchment.contract_bound=与 %s 绑定
 tooltip.bewitchment.contract_items=获得 %d/%d %s
 
 bewitchment.berserker=契约：狂战士
-bewitchment.desiccation=契约：渴血
+bewitchment.desiccation=契约：干涸
 bewitchment.devouring_rage=契约：怒意吞噬
 bewitchment.everflame=诅咒：永恒烈焰
 bewitchment.ignition=契约：点燃
 bewitchment.salamandrine_tolerance=契约：火焰抗性
-bewitchment.mahapadma=需求：红莲地狱
+bewitchment.mahapadma=请求：极裂
 
 item.bewitchment.amethyst.name=紫水晶
 item.bewitchment.garnet.name=石榴石
