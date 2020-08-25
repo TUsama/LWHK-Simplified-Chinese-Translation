@@ -9,12 +9,16 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          ref: CHS
+          repository: LWHK/LWHK-Simplified-Chinese-Translation
+          path: upstream
+          ref: master
       - name: Reset promotion branch
         run: |
-          git fetch origin master:master
-          git reset --hard master
+          git branch lwhk
+      - name: check out master
+        run: |
+          git checkout master
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
-          branch: CHS-promotion
+          branch: lwhk
