@@ -17,6 +17,7 @@ jobs:
           ref: master
       - name: Reset promotion branch
         run: |
+          git remote add lwhk https://github.com/LWHK/LWHK-Simplified-Chinese-Translation.git
           git remote -v
       - name: check out master
         run: |
