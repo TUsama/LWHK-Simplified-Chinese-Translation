@@ -395,12 +395,12 @@ tooltip.bewitchment.contract_bound=与 %s 绑定
 tooltip.bewitchment.contract_items=获得 %d/%d %s
 
 bewitchment.berserker=契约：狂战士
-bewitchment.desiccation=契约：渴血
+bewitchment.desiccation=契约：干涸
 bewitchment.devouring_rage=契约：怒意吞噬
 bewitchment.everflame=诅咒：永恒烈焰
 bewitchment.ignition=契约：点燃
 bewitchment.salamandrine_tolerance=契约：火焰抗性
-bewitchment.mahapadma=需求：红莲地狱
+bewitchment.mahapadma=请求：极裂
 
 item.bewitchment.amethyst.name=紫水晶
 item.bewitchment.garnet.name=石榴石
@@ -411,7 +411,7 @@ item.bewitchment.silver_nugget.name=银粒
 item.bewitchment.cold_iron_nugget.name=寒铁粒
 item.bewitchment.salt.name=盐
 
-item.bewitchment.stew_of_the_grotesque.name=荒谬炖菜
+item.bewitchment.stew_of_the_grotesque.name=大乱炖
 
 item.bewitchment.unfired_jar.name=未烧制的粘土罐子
 item.bewitchment.empty_jar.name=空粘土罐子
@@ -721,9 +721,9 @@ fortune.bewitchment.meet_shadow_person=阴影在注视着你。
 fortune.bewitchment.resilience=在你需要的时候，皮肤会化为钢铁。
 fortune.bewitchment.courage=你将直面逆境。
 fortune.bewitchment.thunderbolt=一道强光遮挡了我的视线。
-fortune.bewitchment.meet_cambion=One born of the flame shall visit you.
-fortune.bewitchment.meet_cleaver=A child of the calf shall visit you.
-fortune.bewitchment.meet_bafometyr=A child of the lamb shall visit you.
+fortune.bewitchment.meet_cambion=它从烈焰中诞生，它会来拜访你。
+fortune.bewitchment.meet_cleaver=牛犊之子将会来拜访你
+fortune.bewitchment.meet_bafometyr=羔羊之子将会来拜访你。
 fortune.bewitchment.orphan=You shall find one of the lost soon.
 fortune.bewitchment.salamander_skin=You shall swim like a salamander.
 fortune.bewitchment.hellish_fortune=In the flames I see treasure.
@@ -760,6 +760,12 @@ tarot.not_pledged=%s 与这门黑暗艺术不再有关联了。
 
 tarot.is_cursed=%s 宁愿承受这一苦痛悲凉。
 tarot.is_not_cursed=%s 没有患上魔法带来的疾病。
+
+tarot.is_witch=%s walks the wicked path.
+tarot.is_hedgewitch=%s crosses paths with deer and elk.
+tarot.is_besmirched=%s dances at infernal orgies.
+tarot.is_alchemist=%s seeks the magnum opus.
+
 
 baphomet.getcontract=你接受了七天的 %s 作为施舍。
 baphomet.lowlevel=你的级别太低了。
@@ -1445,6 +1451,9 @@ entity.bewitchment.given_name.499=Vanity
 entity.bewitchment.given_name.500=Vainglory
 entity.bewitchment.given_name.501=Erichtho
 entity.bewitchment.given_name.502=Amatsu-Mikaboshi
+entity.bewitchment.given_name.503=Merihem
+entity.bewitchment.given_name.504=Pytho
+entity.bewitchment.given_name.505=Abaddon
 
 //Titles
 entity.bewitchment.prefix.0=王
