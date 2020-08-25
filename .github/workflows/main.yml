@@ -23,8 +23,10 @@ jobs:
           git branch lwhk
           git checkout lwhk
           git reset --hard lwhk/master
+          git log
       - name: check out master
         run: |
+          git branch
           git checkout master
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
