@@ -15,9 +15,6 @@ jobs:
           repository: LWHK/LWHK-Simplified-Chinese-Translation
           path: upstream
           ref: master
-      - uses: actions/checkout@v2
-        with:
-          ref: master
       - name: Reset promotion branch
         run: |
           git branch
