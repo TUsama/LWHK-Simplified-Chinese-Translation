@@ -23,7 +23,7 @@ jobs:
           git branch lwhk
           git checkout lwhk
           git reset --hard lwhk/master
-          git push -f origin/lwhk
+          git push -f origin lwhk
       - name: check out master
         run: |
           git branch
