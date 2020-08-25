@@ -19,7 +19,12 @@ jobs:
         run: |
           git remote add lwhk https://github.com/LWHK/LWHK-Simplified-Chinese-Translation.git
           git remote -v
+          git fetch lwhk master
       - name: check out master
         run: |
           git checkout master
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          branch: fetch_head
 
