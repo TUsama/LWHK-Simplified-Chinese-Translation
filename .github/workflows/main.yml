@@ -24,6 +24,7 @@ jobs:
           git checkout lwhk
           git reset --hard lwhk/master
           git log
+          git push origin
       - name: check out master
         run: |
           git branch
