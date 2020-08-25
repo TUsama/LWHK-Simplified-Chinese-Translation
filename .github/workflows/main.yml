@@ -17,7 +17,7 @@ jobs:
           ref: master
       - name: Reset promotion branch
         run: |
-          git branch
+          git remote -v
       - name: check out master
         run: |
           git checkout master
