@@ -30,11 +30,7 @@ jobs:
           ri .\1.txt -Force
           git remote add lwhk https://github.com/LWHK/LWHK-Simplified-Chinese-Translation.git
           git remote -v
-          git fetch lwhk master
-          git branch lwhk
-          git checkout lwhk
-          git reset --hard lwhk/master
-          git push -f origin lwhk
+
       - name: check out master
         run: |
           git branch
