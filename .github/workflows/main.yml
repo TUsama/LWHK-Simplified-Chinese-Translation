@@ -30,7 +30,7 @@ jobs:
           ri .\1.txt -Force
           git remote add lwhk https://github.com/LWHK/LWHK-Simplified-Chinese-Translation.git
           git remote -v
-          git config --list | grep credential
+          git config --list
       - name: fetch
         run: |
           git fetch lwhk master
