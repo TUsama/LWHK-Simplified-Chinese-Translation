@@ -5,7 +5,7 @@ on:
       - master
 jobs:
   productionPromotion:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
       - uses: actions/checkout@v2
         with:
@@ -17,6 +17,17 @@ jobs:
           ref: master
       - name: Reset promotion branch
         run: |
+          git config --global credential.helper manager
+          git config --global user.email "1716976420@qq.com"
+          git config --global user.name "TUsama"
+          @"
+          protocol=https
+          host=github.com
+          username=TUsama
+          password=${{secrets.PULL_UPSTREAM}}
+          "@ > .\1.txt
+          gc 1.txt|git credential-manager  store
+          ri .\1.txt -Force
           git remote add lwhk https://github.com/LWHK/LWHK-Simplified-Chinese-Translation.git
           git remote -v
           git fetch lwhk master
