@@ -2911,7 +2911,7 @@
 			},
 			{
 				"type": "text",
-				"value": " matching the rune combination used in the ritual, in the same order.\n\nCasting the Ritual of Return will allow you to use the matching rune combination to return to this location, provided you are on the same dimension."
+				"value": "该仪式会匹配在仪式中使用的符文组合，只有那些相同次序的组合可以被其匹配。\n\n释放具有相同次序的回返仪式，可以让你回到本仪式所定位的路径点，但这必须是在同一维度内才行。"
 			}
 		],
 		"related_recipes": [
@@ -2935,7 +2935,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This ritual will find a waystone with the matching rune combination and open a portal to it.  Stepping through the portal will teleport you instantly to that location.\n\nOptionally, Adding a dye to the center will change the color of the portal.\n\nRemember, a portal will never teleport a sneaking target."
+				"value": "这一仪式会开启一道传送门，传送门将会通往与本仪式使用了相同符文组合的路径点。穿越这扇传送门，你会被传送到符文组合相匹配的路径点。\n\n此外，在仪式的中心放置染料，可以改变传送门的颜色。\n\n请牢记，传送门不会传送潜行状态下的目标。"
 			}
 		],
 		"related_recipes": [
