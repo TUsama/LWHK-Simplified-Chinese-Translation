@@ -1415,7 +1415,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Punch enchantment increases the knockback dealt when attacking a player or mob with your bow and arrow. This will cause the player or mob to repel backwards more than usual."
+				"value": "增加箭对玩家以及生物的击退距离。被箭击中的目标将会被击飞的更远。"
 			}
 		],
 		"related_recipes": [
@@ -1447,7 +1447,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Respiration enchantment extends how long you can breathe underwater. It also helps you see better underwater."
+				"value": "延长水下呼吸时间，也能使你在水下的视野更为清晰。"
 			}
 		],
 		"related_recipes": [
@@ -1487,7 +1487,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Quick Charge enchantment reduces the amount of time that it takes to reload a crossbow."
+				"value": "减少弩填装箭或烟花火箭的时间。"
 			}
 		],
 		"related_recipes": [
@@ -1527,7 +1527,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Riptide enchantment can be added to a trident. With this enchantment, your trident will propel you forward when you throw a trident while in the water or out in the rain."
+				"value": "将玩家向掷出三叉戟的方向发射。若撞上生物或另一位玩家，则对其造成投掷伤害，只在水中或下雨时生效。"
 			}
 		],
 		"related_recipes": [
@@ -1567,7 +1567,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Sharpness enchantment increases the amount of attack damage dealt to a player or mob."
+				"value": "增加近战攻击伤害。"
 			}
 		],
 		"related_recipes": [
@@ -1623,7 +1623,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Silk Touch enchantment allows you to mine blocks themselves instead of getting the usual dropped items. With this enchantment, you can gather items that are fragile and break such as glass or ice. Or you can mine and gather the block itself such as diamond ore or coal ore (instead of getting diamond and coal drops)."
+				"value": "被开采的方块掉落本身，而非其通常的掉落物。使用带有该附魔的工具，你可以采集一些脆弱的方块，例如玻璃和冰。也可以采集钻石矿石或者煤矿石。（不会掉落钻石和煤）"
 			}
 		],
 		"related_recipes": [
@@ -1647,7 +1647,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Smite enchantment increases your attack damage against undead mobs such as skeletons, wither skeletons, zombies, zombie pigmen, drowneds, and wither bosses."
+				"value": "对亡灵生物造成额外伤害，例如骷髅，凋零骷髅，僵尸，僵尸猪人，溺尸以及凋灵。"
 			}
 		],
 		"related_recipes": [
@@ -1703,7 +1703,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Sweeping Edge enchantment increases the damage of a sweep attack."
+				"value": "增加每一次横扫攻击对每个生物造成的伤害。"
 			}
 		],
 		"related_recipes": [
@@ -1896,7 +1896,7 @@
 			},
 			{
 				"type": "text",
-				"value": "法术书确实很好，but I wonder if I can find a way to bind a spell book to a specific combination of manaweaving symbols?  如果我不小心遗失了这本书，又或者破坏了这本书，我又可以从印记中召回我的书，这一过程不会丢失书上分毫的内容。\n\n一定有某种方法可以做到这件事。\n\nFor the pre-alpha, the combination is Horarium, Aeternum, Triangulus."
+				"value": "法术书确实很好，但我能否找到某种方法，将我的法术书绑定到特定的织魔印记中呢？如果我不小心遗失了这本书，又或者破坏了这本书，我又可以从印记中召回我的书，这一过程不会丢失书上分毫的内容。\n\n一定有某种方法可以做到这件事。\n\nFor the pre-alpha, the combination is Horarium, Aeternum, Triangulus."
 			}
 		],
 		"related_recipes": [
@@ -2949,17 +2949,17 @@
 			}
 		]
 	},
-	"Gate": {
+	"门": {
 		"index": 0,
 		"category": "rituals",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Ritual of the Gate"
+				"value": "门之仪式"
 			},
 			{
 				"type": "text",
-				"value": "This ritual will find a waystone with the matching rune combination and open a portal to it.  Stepping through the portal will teleport you instantly to that location.  Unlike the Ritual of Return, this portal will remain open until a rune of marking is thrown into it.\n\nOptionally, Adding a dye to the center will change the color of the portal.\n\nRemember, a portal will never teleport a sneaking target."
+				"value": "这一仪式会开启一道传送门，传送门将会通往与本仪式使用了相同符文组合的路径点。穿越这扇传送门，你会被传送到符文组合相匹配的路径点。与回返仪式不同的是，只有当你将一枚标记符文扔入传送门之后，传送那个门才会消失。\n\n此外，在仪式的中心放置染料，可以改变传送门的颜色。\n\n请牢记，传送门不会传送潜行状态下的目标。"
 			}
 		],
 		"related_recipes": [

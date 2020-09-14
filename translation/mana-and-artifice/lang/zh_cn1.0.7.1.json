@@ -1,5 +1,5 @@
 {
-	"itemGroup.mana-and-artifice": "Mana and Artifice",
+	"itemGroup.mana-and-artifice": "巧工魔艺",
 
 	"item.mana-and-artifice.debug_wand": "测试法杖",
 	
@@ -126,7 +126,7 @@
 	"item.mana-and-artifice.stone_rune_white": "白色符文",
 	"item.mana-and-artifice.stone_rune_yellow": "黄色符文",
 	
-	"item.mana-and-artifice.spell_book": "咒法术书",
+	"item.mana-and-artifice.spell_book": "法术书",
 	"item.mana-and-artifice.spell": "法术",
 	"item.mana-and-artifice.spell.recipe_display_name": "法术配方：%s - %s",
 	"item.mana-and-artifice.spell.display_name": "法术：%s - %s",
@@ -380,9 +380,9 @@
 	"mana-and-artifice:modifiers/duration": "持续时间",
 	"mana-and-artifice:modifiers/magnitude": "增强",
 	"mana-and-artifice:modifiers/radius": "范围半径",
-	"mana-and-artifice:modifiers/radius.width": "Width",
-	"mana-and-artifice:modifiers/radius.height": "Height",
-	"mana-and-artifice:modifiers/radius.depth": "Depth",
+	"mana-and-artifice:modifiers/radius.width": "宽度",
+	"mana-and-artifice:modifiers/radius.height": "高度",
+	"mana-and-artifice:modifiers/radius.depth": "深度",
 	"mana-and-artifice:modifiers/range": "法术距离",
 	"mana-and-artifice:modifiers/speed": "速度",
 	

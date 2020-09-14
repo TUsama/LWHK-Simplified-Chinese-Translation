@@ -126,7 +126,7 @@
 	"item.mana-and-artifice.stone_rune_white": "白色符文",
 	"item.mana-and-artifice.stone_rune_yellow": "黄色符文",
 	
-	"item.mana-and-artifice.spell_book": "咒法术书",
+	"item.mana-and-artifice.spell_book": "法术书",
 	"item.mana-and-artifice.spell": "法术",
 	"item.mana-and-artifice.spell.recipe_display_name": "法术配方：%1$s - %2$s",
 	"item.mana-and-artifice.spell.display_name": "法术：%1$s - %2$s",
@@ -142,7 +142,7 @@
 	"item.mana-and-artifice.staff_b": "魔法权杖",
 	"item.mana-and-artifice.staff_c": "魔法权杖",
 	
-	"item.mana-and-artifice.sight_unguent": "视之渴求",
+	"item.mana-and-artifice.sight_unguent": "视之药膏",
 	"item.mana-and-artifice.sight_unguent.flavor_text": "闻起来真恶心",
 	
 	"item.mana-and-artifice.vellum": "皮纸",
