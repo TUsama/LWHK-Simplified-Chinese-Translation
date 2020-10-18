@@ -9,7 +9,7 @@ itemGroup.elementaristics_essences=源素
 
 #Config
 elementaristics.config.category_client=客户端
-elementaristics.config.nexus_update_interval=联结器更新间隔
+elementaristics.config.nexus_update_interval=联结点更新间隔
 elementaristics.config.mind_dimension_id=“精神”维度ID
 
 elementaristics.config.particle_amount=元素秘学粒子效果数量
