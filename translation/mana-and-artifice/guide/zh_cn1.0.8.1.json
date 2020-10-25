@@ -2039,7 +2039,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The rune shape will create a rune at the targeted point.  The range attribute will change how far away you can place the rune. The radius attribute will change the size of the rune's effect when triggered.\n\nThe magnitude effect changes what will trigger the rune.\nMagnitude 1: Anything\nMagnitude 2: Anything living\nMagnitude 3: Players only.\n\nDamage will always trigger the rune."
+				"value": "形状：符文会在你所指的目标地点生成一个符文。法术距离属性影响放置的距离，半径属性将会影响符文被触发时的影响半径。\n\n增强效果将会改变符文触发的条件。\n增强 1: 任何\n增强 2: 任何活物\n增强 3: 只有玩家\n\n对符文造成伤害总是会触发符文。"
 			}
 		],
 		"related_recipes": [
@@ -2315,11 +2315,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Activate"
+				"value": "激活"
 			},
 			{
 				"type": "text",
-				"value": "I can use a small bit of arcane force to activate a block that I target.  Good for switches, buttons, and making a grand entrance through doors."
+				"value": "我能够运用一小股奥术力量激活某一方块。适用于拉杆，按钮，以及使得门户大开。"
 			}
 		],
 		"related_recipes": [
@@ -3539,11 +3539,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Mundane Bracelet"
+				"value": "普通手镯"
 			},
 			{
 				"type": "text",
-				"value": "I have a delicate setup for making all of my runes, these tools could easily make some jewellery that I could later imbue with magical properties.  I'll start with a simple bracelet."
+				"value": "我有着一整套用于制作符文的精巧工具，使用这些工具，我可以不费力地制作出一个手镯，还能在其上注入一些魔法效果。就从普通的手镯开始制作吧。"
 			}
 		],
 		"related_recipes": [
@@ -3563,11 +3563,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Emberglow Bracelet"
+				"value": "烬明手镯"
 			},
 			{
 				"type": "text",
-				"value": "This enchanted bracelet will protect me from fire and lava.  I must take care though, as it's protection will not last forever and it will eventually break.\n\nThis bracelet can only be crafted by those that have aligned themselves with the Demons of the Nether."
+				"value": "这一魔力充盈的手镯会保护我不受火焰与岩浆的侵害。当然，我还是得谨慎些，因为它并不能永远的保护我，最终还是会受损破碎的。\n\n这一手镯只能由那些与下界恶魔结成同盟的人制作出来。"
 			}
 		],
 		"related_recipes": [
@@ -3583,11 +3583,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Ley Line Bracelet"
+				"value": "魔脉手镯"
 			},
 			{
 				"type": "text",
-				"value": "This enchanted bracelet allows me to draw power from nearby motes of residual magic.  I can use this to fuel my spells when I would otherwise not have enough mana.  It might be worth making something to help me see them.\n\nThis bracelet can only be crafted by those that have aligned themselves with the Council of Wizards."
+				"value": "这一魔力充盈的手镯会牵引周围残存的魔法微粒，当我魔力捉襟见肘时，可以利用这一手镯为我的法术充能。还是比较值的，毕竟谁都会有魔力不够用的情况。\n\n这一手镯只能由那些与远古巫师议会结成同盟的人制作出来。"
 			}
 		],
 		"related_recipes": [
@@ -3607,11 +3607,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Antidote Bracelet"
+				"value": "解毒手镯"
 			},
 			{
 				"type": "text",
-				"value": "This enchanted bracelet will protect me from the effects of poison.  It only contains so much magic, and will eventually break."
+				"value": "这一魔力充盈的手镯会使你 受中毒之苦。它所蕴含的魔力不多，使用完了之后手镯会破裂。"
 			}
 		],
 		"related_recipes": [
@@ -3627,11 +3627,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Trickery Bracelet"
+				"value": "欺诈手镯"
 			},
 			{
 				"type": "text",
-				"value": "This enchanted bracelet will enhance my stealth while sneaking and allow me to deliver an unarmed punch that will send my target flying away from me.  It only contains so much magic, and will eventually break.\n\nThis can only be crafted by those aligned with the fey courts."
+				"value": "这一魔力充盈的手镯会会增强我潜行时的隐藏程度，并可以在赤手空拳的情况下将敌人击飞。它所蕴含的魔力有限，使用完了之后手镯会破裂。\n\n这一手镯只能由那些与仙女之庭结成同盟的人制作出来。"
 			}
 		],
 		"related_recipes": [
