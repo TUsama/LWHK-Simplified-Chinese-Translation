@@ -1,6 +1,6 @@
 {
 	"itemGroup.mana-and-artifice.items":"巧工魔艺",
-	"itemGroup.mana-and-artifice.constructs":"巧工魔艺：Constructs",
+	"itemGroup.mana-and-artifice.constructs":"巧工魔艺丨构装",
 	"itemGroup.mana-and-artifice.runes":"巧工魔艺丨符文",
 	"itemGroup.mana-and-artifice.artifice":"巧工魔艺丨巧艺",
 
@@ -262,12 +262,12 @@
 	"effect.mana-and-artifice.entangle":"缠绕",
 	"effect.mana-and-artifice.gravity-well":"重力井",
 	"effect.mana-and-artifice.chrono-anchor":"回溯之锚",
-	"effect.mana-and-artifice.chrono-exhaustion":"Chrono Exhaustion",
+	"effect.mana-and-artifice.chrono-exhaustion":"越时之倦",
 	"effect.mana-and-artifice.watery-grave":"水墓",
 	"effect.mana-and-artifice.silence":"沉默",
 	"effect.mana-and-artifice.mana-boost":"魔力增强",
 	"effect.mana-and-artifice.mana-regen":"魔力再生",
-	"effect.mana-and-artifice.dispel-exhaustion":"Dispel Exhaustion",
+	"effect.mana-and-artifice.dispel-exhaustion":"驱散之倦",
 	"effect.mana-and-artifice.instant-mana":"魔力恢复",
 
 	"gui.mana-and-artifice.complexity":"复杂度",
@@ -420,7 +420,7 @@
 	"mana-and-artifice:components/transplace":"移位",
 	"mana-and-artifice:components/blink":"闪现",
 	"mana-and-artifice:components/blink.failed":"无法找到可供闪现的位置。",
-	"mana-and-artifice:components/activate":"Activate",
+	"mana-and-artifice:components/activate":"激活",
 
 	"mana-and-artifice:modifiers/damage":"伤害",
 	"mana-and-artifice:modifiers/duration":"持续时间",
