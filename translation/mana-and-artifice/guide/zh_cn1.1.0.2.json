@@ -4321,7 +4321,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Animated constructs是一种类人型的构装，被注入其中的魔法使得它们能够像生命体一样活动自如。"
+				"value": "运动构装体是一种类人型的构装，被注入其中的魔法使得它们能够像生命体一样活动自如。"
 			},
 			{
 				"type": "title",
@@ -4329,7 +4329,7 @@
 			},
 			{
 				"type": "text",
-				"value": "构装体由5个部分构成：头部，躯干，腿以及两条手臂。各个部件决定了构装体的整体能力。Take some time to look through the various parts in the Constructs section of the Codex and decide which ones you want to make.  You can modify a construct at any time by commanding it to return to an empty Construct Workbench.  The way to do so is described a little further on.\n\nOnce you know which parts you want to make, you need to decide on a material.  There are six materials that a Construct can be made from, and each changes the properties of the construct.  You can mix and match materials, and this will balance the benefits and disadvantages of the construct.  It's worthwhile to experiment with different combinations to find one that suits your needs."
+				"value": "构装体由5个部分构成：头部，躯干，腿以及两条手臂。各个部件决定了构装体的整体能力。你可以花一些时间浏览古籍中的“构装”章节，并决定如何制作的你想要的各个部件。你可以在任意时刻改装你的构装体，只需向其下令，让它回到空的构装工作台中即可。具体的操作方法见下文。\n\n一旦你确认了你想要制作的是哪一部分，接下来你就要为你的目标挑选一种制作材料了。共有六种材料供你选择，每一种材料都会给构装体带来独特的属性。 你可以任意混合不同材料制作而成的部件，这可以平衡成品构装体的“木板 长度”，反复实验，最终你可以找出你最心仪的那种组合。"
 			},
 			{
 				"type": "title",
@@ -4338,20 +4338,20 @@
 			},
 			{
 				"type": "title",
-				"value": "Wood",
+				"value": "木",
 				"newPage": true
 			},
 			{
 				"type": "text",
-				"value": "Wooden construct parts are made from any kind of wood.  They are buoyant and light, meaning the help constructs to float and move more quickly.  However they cause the construct to take more damage from fire, and they don't have much in terms of health."
+				"value": "木制构装体部件由某种木头制成，这种部件轻盈且在水中可以漂浮，这意味着木制构装体可以移动的更快，且不会沉入水底。然而，火焰对这种构装体会造成更高的伤害，并且构装体的生命值也不会也较低。"
 			},
 			{
 				"type": "text",
-				"value": "HP/Part: 1\nBuoyancy/Part: 1\nSpeed/Part: 15\nKB Resist/Part: 0%"
+				"value": "HP/每部件：1\n浮性/每部件: 1\n速度/每部件：15\n击退抗性/每部件：0%"
 			},
 			{
 				"type": "title",
-				"value": "Stone",
+				"value": "石",
 				"newPage": true
 			},
 			{
@@ -4360,11 +4360,11 @@
 			},
 			{
 				"type": "text",
-				"value": "HP/Part: 2\nBuoyancy/Part: -1\nSpeed/Part: 12\nKB Resist/Part: 20%"
+				"value": "HP/每部件: 2\n浮性/每部件: -1\n速度/每部件: 12\n击退抗性/每部件: 20%"
 			},
 			{
 				"type": "title",
-				"value": "Iron",
+				"value": "铁",
 				"newPage": true
 			},
 			{
@@ -4373,11 +4373,11 @@
 			},
 			{
 				"type": "text",
-				"value": "HP/Part: 5\nBuoyancy/Part: -3\nSpeed/Part: 10\nKB Resist/Part: 30%"
+				"value": "HP/每部件: 5\n浮性/每部件: -3\n速度/每部件: 10\n击退抗性/每部件: 30%"
 			},
 			{
 				"type": "title",
-				"value": "Gold",
+				"value": "金",
 				"newPage": true
 			},
 			{
@@ -4386,11 +4386,11 @@
 			},
 			{
 				"type": "text",
-				"value": "HP/Part: 3\nBuoyancy/Part: -3\nSpeed/Part: 10\nKB Resist/Part: 40%"
+				"value": "HP/每部件: 3\n浮性/每部件: -3\n速度/每部件: 10\n击退抗性/每部件: 40%"
 			},
 			{
 				"type": "title",
-				"value": "Diamond",
+				"value": "钻石",
 				"newPage": true
 			},
 			{
@@ -4399,11 +4399,11 @@
 			},
 			{
 				"type": "text",
-				"value": "HP/Part: 6\nBuoyancy/Part: -1\nSpeed/Part: 15\nKB Resist/Part: 0%"
+				"value": "HP/每部件: 6\n浮性/每部件: -1\n速度/每部件: 15\n击退抗性/每部件: 0%"
 			},
 			{
 				"type": "title",
-				"value": "Obsidian",
+				"value": "黑曜石",
 				"newPage": true
 			},
 			{
@@ -4412,11 +4412,11 @@
 			},
 			{
 				"type": "text",
-				"value": "HP/Part: 10\nBuoyancy/Part: -5\nSpeed/Part: 9\nKB Resist/Part: 40%"
+				"value": "HP/每部件: 10\n浮性/每部件: -5\n速度/每部件: 9\n击退抗性/每部件: 40%"
 			},
 			{
 				"type": "title",
-				"value": "Setting up the Construct Workbench",
+				"value": "配置构装工作台",
 				"newPage": true
 			},
 			{
@@ -4431,7 +4431,7 @@
 			},
 			{
 				"type": "title",
-				"value": "Summoning the Construct",
+				"value": "召唤构装体",
 				"newPage": true
 			},
 			{
@@ -4440,20 +4440,20 @@
 			},
 			{
 				"type": "title",
-				"value": "Affinity Effects",
+				"value": "亲和度效果",
 				"newPage": true
 			},
 			{
 				"type": "text",
-				"value": "As mentioned earlier, constructs are summoned with an affinity.  This affects what they do.  A construct can have a total of 8 affinity points.  The list below shows the effects per point of affinity.  You can mix and match freely, so find something that perhaps shores up weaknesses within the material used, or enhances the strong points.  Conflicting affinities within the construct do not matter."
+				"value": "如前文所言，被召唤而出的构装体总是拥有着亲和度，这一亲和度会影响构装体的行为。一个构装体统共可拥有 8 点的亲和点数，下方的列表显示了每点 亲和度能够带来的效果。你可以随意组合搭配，适宜的部件组合可以弥补制作材料所带来的短板，或者是进一步增强构装体的强势之处。构装体中互相冲突的亲和不会带来任何影响。"
 			},
 			{
 				"type": "text",
-				"value": "Air: 1 move speed/point\n\nArcane: 5% magic damage resistance/point\n\nEarth: 5% physical damage resist/point\n\nEnder: 1 carry capacity/point\n\nFire: 1s/point of ignition when attacking\n\nWater: 1 buoyancy/point"
+				"value": "气：1 移动速度/点\n\n奥术：5% 魔法伤害抗性/点\n\n大地： 5% 物理伤害抗性/点\n\n末影 ：1 携带物品量/点\n\n火：1 秒（攻击时的附加燃烧效果持续时间）/点 \n\n水：1 浮性/点"
 			},
 			{
 				"type": "title",
-				"value": "Swimming"
+				"value": "游泳"
 			},
 			{
 				"type": "text",
@@ -4461,7 +4461,7 @@
 			},
 			{
 				"type": "title",
-				"value": "Basic Commands",
+				"value": "基础指令",
 				"newPage": true
 			},
 			{
@@ -4507,7 +4507,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Lodestar"
+				"value": "北极星"
 			},
 			{
 				"type": "text",
@@ -4515,7 +4515,7 @@
 			},
 			{
 				"type": "title",
-				"value": "Take Item"
+				"value": "拿取物品"
 			},
 			{
 				"type": "text",
@@ -4523,7 +4523,7 @@
 			},
 			{
 				"type": "title",
-				"value": "Place Item"
+				"value": "放置物品"
 			},
 			{
 				"type": "text",
@@ -4531,7 +4531,7 @@
 			},
 			{
 				"type": "title",
-				"value": "Runescribe"
+				"value": "符文刻印"
 			},
 			{
 				"type": "text",
@@ -4539,7 +4539,7 @@
 			},
 			{
 				"type": "title",
-				"value": "Runeforge"
+				"value": "符文锻造"
 			},
 			{
 				"type": "text",
@@ -4567,7 +4567,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Construct Grabber Arms"
+				"value": "构装体抓手手臂"
 			},
 			{
 				"type": "text",
@@ -4621,7 +4621,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Construct Bladed Arms"
+				"value": "构装体剑刃手臂"
 			},
 			{
 				"type": "text",
@@ -4667,7 +4667,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Construct Hammer Arms"
+				"value": "构装体重锤手臂"
 			},
 			{
 				"type": "text",
@@ -4721,7 +4721,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Construct Basic Torso"
+				"value": "构装体基础躯干"
 			},
 			{
 				"type": "text",
@@ -4756,7 +4756,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Construct Basic Legs"
+				"value": "构装体基础腿部"
 			},
 			{
 				"type": "text",
@@ -4791,7 +4791,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Construct Basic Head"
+				"value": "构装体基础头部"
 			},
 			{
 				"type": "text",
@@ -4826,11 +4826,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Construct Rebreather Head"
+				"value": "构装体加装呼吸器头部"
 			},
 			{
 				"type": "text",
-				"value": "The rebreather head allows constructs to breathe underwater."
+				"value": "加装呼吸器头部能够让构装体在水下进行呼吸。"
 			}
 		],
 		"related_recipes": [
