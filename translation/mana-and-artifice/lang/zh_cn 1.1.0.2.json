@@ -257,7 +257,7 @@
 	"block.mana-and-artifice.ritual_teleport_location":"仪式传送目的地",
 	"block.mana-and-artifice.runic_anvil":"符文铁砧",
 	"block.mana-and-artifice.runic_anvil.low_tier":"你感觉理论上应该能够正常进行，但你目前所拥有的技巧或者学识还不足以支撑你完成这一工作。",
-	"block.mana-and-artifice.runeforge":"符文锻造",
+	"block.mana-and-artifice.runeforge":"符文锻造炉",
 
 	"block.mana-and-artifice.occulus":"神秘核心",
 	"block.mana-and-artifice.occulus.confusion":"你凝视着这一漂浮于空中的晶体，倏忽之间，你感到你的意识仿佛被它迅猛地拉扯、吞噬。你连忙闭上了眼睛，并转过身去不再面对它。看来在你能够使用它之前，你还得对它在做一番深入的研究才行。",
@@ -440,10 +440,10 @@
 	"mana-and-artifice:components/watery_grave":"水墓",
 	"mana-and-artifice:components/night_vision":"夜视",
 	"mana-and-artifice:components/invisibility":"隐形",
-	"mana-and-artifice:components/light":"照亮",
+	"mana-and-artifice:components/light":"照明",
 	"mana-and-artifice:components/break":"破坏",
 	"mana-and-artifice:components/heal":"治疗",
-	"mana-and-artifice:components/rift":"断裂",
+	"mana-and-artifice:components/rift":"裂隙",
 	"mana-and-artifice:components/slowfall":"羽落",
 	"mana-and-artifice:components/transplace":"移位",
 	"mana-and-artifice:components/blink":"闪现",
@@ -535,8 +535,8 @@
 	"mana-and-artifice:progresscondition.t4_ritual":"完成一个等阶4的仪式",
 	"mana-and-artifice:progresscondition.t4_complete":"完成以下仪式，获得进阶:",
 
-	"item.mana-and-artifice.construct_control_rod":"Construct Control Rod",
-	"item.mana-and-artifice.construct_control_rod.not_commanding":"You are not currently commanding a construct.  Use this rod on a constrct to command it.",
+	"item.mana-and-artifice.construct_control_rod":"构装体控制棒",
+	"item.mana-and-artifice.construct_control_rod.not_commanding":"你当前并没有对某个构装体下达指令，对着构装体使用该棒可以对它下达指令。",
 
 	"item.mana-and-artifice.constructs.rune_rod":"Construct Frame：Rod",
 	"item.mana-and-artifice.constructs.rune_head":"Construct Frame：Head",
