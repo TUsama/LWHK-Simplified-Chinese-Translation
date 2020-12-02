@@ -10,7 +10,7 @@
 	
 	"item.mana-and-artifice.bubble_boat": "泡状舱船",
 	
-	"item.mana-and-artifice.chimerite_gem": "精灵宝石",
+	"item.mana-and-artifice.chimerite_gem": "空想宝石",
 	"item.mana-and-artifice.component_pouch": "符文组件袋",	
 	"item.mana-and-artifice.crystal_phylactery": "水晶护符",
 	
@@ -167,7 +167,7 @@
 	"block.mana-and-artifice.brazier.auto_on": "自动点亮已开启",
 	"block.mana-and-artifice.brazier.auto_off": "自动点亮已关闭",
 	
-	"block.mana-and-artifice.chimerite_ore": "精灵宝石矿石",
+	"block.mana-and-artifice.chimerite_ore": "空想矿石",
 	"block.mana-and-artifice.vinteum_ore": "温特姆矿石",
 	"block.mana-and-artifice.vinteum_block": "温特姆块",
 	"block.mana-and-artifice.aum": "全知草",

@@ -2282,7 +2282,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我找到了一种方法，这一方法可以让我在本维度以及其它临近维度之间撕开一个小裂隙。列席的大小足以让我通过，而且我感觉列席通向的总是同一个空间。也许我可以将 我的物品储存于这个裂隙中，这样那些小偷小摸之人就侵犯不到我的财产了。\n\n有趣的是，不同的法师使用裂隙打开的空间也是不一样的，这可能是由于法术配方中的各部分之间的微妙反应不尽相同。"
+				"value": "我找到了一种方法，这一方法可以让我在本维度以及其它临近维度之间撕开一个小裂隙。裂隙的大小足以让我通过，而且我感觉裂隙通向的总是同一个空间。也许我可以将我的物品储存于这个裂隙中，这样那些小偷小摸之人就侵犯不到我的财产了。\n\n有趣的是，不同的法师使用裂隙打开的空间也是不一样的，这可能是由于法术配方中的各部分之间的微妙反应不尽相同。"
 			}
 		],
 		"related_recipes": [
@@ -2318,7 +2318,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Drown"
+				"value": "窒息"
 			},
 			{
 				"type": "text",
@@ -2338,7 +2338,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Poison"
+				"value": "中毒"
 			},
 			{
 				"type": "text",
@@ -2358,11 +2358,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Cauterize"
+				"value": "烙灼"
 			},
 			{
 				"type": "text",
-				"value": "I've been thinking of a way to use fire spells to do more than destroy.  I know there are many effects of fire that are beneficial:  warmth, cooked food, industry.  But what about the preservation of life?  I believe with some carefully applied fire, I can seal up wounds.  It will hurt initially, but the overall benefit will be greater.\n\nMagnitude 1: Damage 2, heal 4\n\nMagnitude 2: Damage 4, heal 8\n\nMagnitude 3: Damage 8, heal 16"
+				"value": "我反复思考：如何开发火焰法术的更多功用？我知晓许多火焰所能能办到的独特用处：温暖，烧煮食物，工业，等等。但火焰是否能应用于恢复生命值？我认为，只要足够小心地操控火焰，就能够用其封闭我的伤口。火焰尽管会在烧灼我的那一瞬间对我造成伤害，但在此之后却能带给我更大的益处。\n\n增强 1：造成伤害 2，治疗生命值 4\n\n增强 2：造成伤害 4，治疗生命值 8\n\n增强 3：造成伤害 8，治疗生命值 16"
 			}
 		],
 		"related_recipes": [
@@ -3245,11 +3245,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Glyphs"
+				"value": "雕符"
 			},
 			{
 				"type": "text",
-				"value": "基础的Glyphs是魔法合成中的重要组成部分。一个小小的空白Glyphs，将其与各式染料混合，就可以制作出带有独特魔法样式的对应颜色符文。这些彩色符文将会在那些需要聚集魔法能量的过程中起大作用，比如仪式以及附魔。\n\n法师们也常备着一个小袋子，来专门储存这些Glyphs。"
+				"value": "基础的雕符是魔法合成中的重要组成部分。一个小小的空白雕符，将其与各式染料混合，就可以制作出带有独特魔法样式的对应雕符。这些彩色符文将会在那些需要聚集魔法能量的过程中起大作用，比如仪式以及附魔。\n\n法师们也常备着一个小袋子，来专门储存这些雕符。"
 			}
 		],
 		"related_recipes": [
