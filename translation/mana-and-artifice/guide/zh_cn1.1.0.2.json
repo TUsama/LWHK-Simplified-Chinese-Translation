@@ -3454,7 +3454,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Rune: Marking"
+				"value": "符文：标记"
 			},
 			{
 				"type": "text",
@@ -3771,11 +3771,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Mundane Ring"
+				"value": "普通戒指"
 			},
 			{
 				"type": "text",
-				"value": "This simple ring doesn't offer too much on its own, but the enchantment possibilities lend it significantly more use."
+				"value": "这种戒指仅凭自身无法提供太多助益，但它的附魔能力却赋予了它更多可能的用法。"
 			}
 		],
 		"related_recipes": [
@@ -3795,7 +3795,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Ring of the Skies"
+				"value": "碧空之戒"
 			},
 			{
 				"type": "text",
@@ -3815,7 +3815,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Ring of Silk"
+				"value": "精准之戒"
 			},
 			{
 				"type": "text",
@@ -3835,7 +3835,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Rings of Fortune"
+				"value": "时运之戒"
 			},
 			{
 				"type": "text",
@@ -3863,7 +3863,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Ring of the Enderman"
+				"value": "末影人之戒"
 			},
 			{
 				"type": "text",
@@ -4625,7 +4625,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Construct bladed arms allow for faster, more powerful attacks."
+				"value": "构装体剑刃手臂能使得构装体的攻击更快，伤害更高。"
 			}
 		],
 		"related_recipes": [
