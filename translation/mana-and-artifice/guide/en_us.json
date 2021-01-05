@@ -2368,7 +2368,7 @@
 	"Grimoires": {
 		"index": -95,
 		"category": "sorcery",
-		"tier": 5,
+		"tier": 3,
 		"sections": [
 			{
 				"type": "title",
@@ -2376,10 +2376,14 @@
 			},
 			{
 				"type": "text",
-				"value": "Spell books are well and good, but I wonder if I can find a way to bind a spell book to a specific combination of manaweaving symbols?  Then, if I ever lose the book or if it is destroyed, I can simply summon it back with its contents intact.\n\nThere has to be a way.\n\nFor the pre-alpha, the combination is Horarium, Aeternum, Propterea Anguli."
+				"value": "Spell books are well and good, but I wonder if I can find a way to bind a spell book to a specific combination of manaweaving symbols?  Then, if I ever lose the book or if it is destroyed, I can simply summon it back with its contents intact.\n\nThere has to be a way.  Maybe even with a cantrip."
 			}
 		],
 		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/sorcery/cantrip_book"
+			}
 		]
 	},
 	"Book of Rote": {
@@ -3835,6 +3839,26 @@
 			}
 		]
 	},
+	"Locating": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ritual of Locating"
+			},
+			{
+				"type": "text",
+				"value": "This ritual will enchant a compass to find a structure, village, or biome.  Trade with Cartographer villagers to get the Thaumaturgic Link items needed to set what you're trying to locate.  Any modded structure, biome, etc should work.\n\nDEV NOTE:  The cartographer thing is temporary, I have another solution in mind that I'm working on."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/locating"
+			}
+		]
+	},
 	"Arcana": {
 		"index": 0,
 		"category": "rituals",
@@ -3968,7 +3992,7 @@
 	"Summoning": {
 		"index": 0,
 		"category": "rituals",
-		"tier": 5,
+		"tier": 3,
 		"sections": [
 			{
 				"type": "title",
@@ -3993,7 +4017,7 @@
 	"Visiting": {
 		"index": 0,
 		"category": "rituals",
-		"tier": 5,
+		"tier": 3,
 		"sections": [
 			{
 				"type": "title",
@@ -5828,6 +5852,96 @@
 			}
 		]
 	},	
+	"Command: Move": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Command: Move"
+			},
+			{
+				"type": "text",
+				"value": "This command will cause the construct to move to the given location.  It does not require any specific parts, but can be useful for things like forcing triggering of pressure plates."
+			}
+		]
+	},	
+	"Command: Patrol": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Command: Patrol"
+			},
+			{
+				"type": "text",
+				"value": "This command will cause the construct to patrol among one to four points specified, attacking enemies it sees along the way (if it is capable of doing so).  At each point, it will remain for 5 seconds before continuing on to the next.  At the end of the final point, it will continue any other tasks within the lodestar before returning to patrol.  It's a particularly good use of time if you're having your construct wait for something."
+			}
+		]
+	},	
+	"Command: Breed": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Command: Breed"
+			},
+			{
+				"type": "text",
+				"value": "This command will cause the construct to attempt to use the item in its hand to breed animals within its radius.  For example, use a Take Item command to have the construct collect wheat, then use this command with a radius that includes cows or sheep.  The construct will breed them as long as the following conditions are met:\n\n1.) There are at least 2 adult animals in the detection area that can breed\n2.)The construct has at least 2 of their breeding items in its hands.\n\nIf either of those conditions are not met, this task will be skipped.  The construct needs to have the carrying capability in order to perform this task."
+			}
+		]
+	},
+	"Command: Butcher": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Command: Butcher"
+			},
+			{
+				"type": "text",
+				"value": "This command will cause the construct to kill adult animals within the specified range as long as there are more than 2 adults."
+			}
+		]
+	},	
+	"Command: Place Block": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Command: Place Block"
+			},
+			{
+				"type": "text",
+				"value": "This command will cause the construct to place the block that it currently has in its hand (use a Take Item command to get one there) at the given location, provided it is a block or an item that creates a block (like seeds or saplings).  The construct needs to have  the carrying capability in order to do this task."
+			}
+		]
+	},	
+	"Command: Chop Trees": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Command: Chop Trees"
+			},
+			{
+				"type": "text",
+				"value": "This command will cause the construct to chop down trees within the specified area.  Only the bases of the trees need to be included for the tree to be targeted.  The construct needs an axe arm in order to perform this action."
+			}
+		]
+	},	
 	"Construct Grabber Arm": {
 		"index": "3",
 		"category": "constructs",
@@ -5917,6 +6031,60 @@
 					"mana-and-artifice:manaweaving/constructs/diamond/diamond_bladed_arm_right",
 					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_bladed_arm_right"
 				]
+			},
+			{
+				"type":"runescribing",
+				"location":"mana-and-artifice:runescribing/constructs/runescribe_construct_rod"
+			},
+			{
+				"type":"runesmithing",
+				"location":"mana-and-artifice:runeforging/constructs/runeforge_construct_rod"
+			}
+		]
+	},
+	"Construct Axe Arm": {
+		"index": "3",
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Construct Axe Arms"
+			},
+			{
+				"type": "text",
+				"value": "Construct axe arms allow for moderate attacks and chopping down trees."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/constructs/wood/wood_axe_arm_left",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_axe_arm_left",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_axe_arm_left",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_axe_arm_left",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_axe_arm_left",
+					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_axe_arm_left"
+				]
+			},
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/constructs/wood/wood_axe_arm_right",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_axe_arm_right",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_axe_arm_right",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_axe_arm_right",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_axe_arm_right",
+					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_axe_arm_right"
+				]
+			},
+			{
+				"type":"runescribing",
+				"location":"mana-and-artifice:runescribing/constructs/runescribe_construct_axe"
+			},
+			{
+				"type":"runesmithing",
+				"location":"mana-and-artifice:runeforging/constructs/runeforge_construct_axe"
 			},
 			{
 				"type":"runescribing",
