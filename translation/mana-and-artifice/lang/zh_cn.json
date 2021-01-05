@@ -2,7 +2,7 @@
 	"itemGroup.mana-and-artifice.items":"巧工魔艺",
 	"itemGroup.mana-and-artifice.constructs":"巧工魔艺丨构装",
 	"itemGroup.mana-and-artifice.runes":"巧工魔艺丨符文",
-	"itemGroup.mana-and-artifice.thaumaturgy": "Mana and Artifice: Thaumaturgy",
+	"itemGroup.mana-and-artifice.thaumaturgy": "巧工魔艺丨神秘学",
 	"itemGroup.mana-and-artifice.artifice":"巧工魔艺丨巧艺",
 
 	"item.mana-and-artifice.air_cast_ring":"碧空之戒",
@@ -18,7 +18,7 @@
 	"item.mana-and-artifice.break_ring_lesser":"Break Ring (Lesser)",
 	"item.mana-and-artifice.break_ring_greater":"Break Ring (Greater)",
 	"item.mana-and-artifice.blink_precision_ring":"末影人之戒",
-	"item.mana-and-artifice.bone_ash":"Bone Ash",
+	"item.mana-and-artifice.bone_ash":"骨灰",
 	"item.mana-and-artifice.bubble_boat":"泡状舱船",
 
 	"item.mana-and-artifice.cantrip_book":"Cantrip Book",

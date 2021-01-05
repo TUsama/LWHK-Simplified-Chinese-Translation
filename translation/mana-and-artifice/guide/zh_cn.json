@@ -1,11 +1,11 @@
 {
-	"Using  this Codex": {
+	"Using this Codex": {
 		"category": "basics",
 		"index": -100,
 		"sections": [
 			{
 				"type": "title",
-				"value": "Using This Codex"
+				"value": "古籍使用方法"
 			},
 			{
 				"type": "image",
@@ -19,12 +19,12 @@
 			},
 			{
 				"type": "text",
-				"value": "When looking at an entry, the pagination buttons are shown at the bottom of pages (if there is a previous or next page to turn to)."
+				"value": "当你在查阅任意章节时，分页按钮会出现在每一页的底部（前提是当前页面有前一页或后一页）。"
 			},
 			
 			{
 				"type": "text",
-				"value": "This codex is your guide on how to do the things within the mod.  It contains every recipe, mechanic, part, and how to make them.\n\nIt's intended to pair with the Occulus, which is a block that shows you what you've unlocked at a given tier as well as tells you what you need to do in order to advance.  Use that as a guide to 'what' you have unlocked, and this book as 'how'.\n\nThe Codex will only display things that you have unlocked at your current tier."
+				"value": "这本古籍将会指导你如何游玩本模组的内容。它记录了所有模组内的配方，器械，组件，以及获取这些东西的方法。\n\n本书最好与神秘核心搭配使用，神秘核心将会显示特定等阶所解锁的内容，以及进阶的具体方法。简单来说，神秘核心会告诉你你已经解锁了哪些内容，而奥秘古籍则是告诉你这些内容的具体操作方法。\n\n古籍中只会显示你当前等阶已解锁的全部内容。"
 			},
 			{
 				"type": "image",
@@ -35,11 +35,11 @@
 			},
 			{
 				"type": "title",
-				"value": "Return to Category Index"
+				"value": "回退至门类目录"
 			},
 			{
 				"type": "text",
-				"value": "When viewing an entry, click the back button to return to the category index pages."
+				"value": "阅读古籍时，点击返回按钮可以回退至门类目录。"
 			},
 			{
 				"type": "image",
@@ -50,11 +50,11 @@
 			},
 			{
 				"type": "title",
-				"value": "Categories"
+				"value": "门类"
 			},
 			{
 				"type": "text",
-				"value": "This codex is broken down into categories.  They are displayed with green tabs on the side, and represent various logical areas within the mod.  Click a category to view the items within it."
+				"value": "古籍中的内容可划分为数个门类，它们会以绿底的按钮显示在侧边，不同门类代表了模组不同的逻辑分类。点击门类的按钮，就可以查看门类中的各个条目。"
 			},
 			{
 				"type": "image",
@@ -65,11 +65,11 @@
 			},
 			{
 				"type": "title",
-				"value": "Search"
+				"value": "查询"
 			},
 			{
 				"type": "text",
-				"value": "Click the search tab at the bottom of this UI to bring up a search window.  Search for what you're looking for and click the result you want in order to jump to it."
+				"value": "点击书籍 UI 下方的查询标签，你可以打开一个查询窗口。你可以在其中搜索你想要查看的内容，点击搜索结果即可跳转到对应章节。"
 			},			
 			{
 				"type": "image",
@@ -80,11 +80,11 @@
 			},
 			{
 				"type": "title",
-				"value": "Back Behaviour"
+				"value": "回退行为"
 			},
 			{
 				"type": "text",
-				"value": "Click the back behaviour tab at the bottom of this UI to change how you navigate through this codex.  There is support for changing back to a combination of escape, right mouse, and the UI buttons."
+				"value": "点击书籍 UI 下方的回退行为标签，你可以修改你在游览古籍时的回退方式。你可以使用 ESC 键，鼠标右键，以及 UI 按钮进行组合，搭配出最适合你自己的回退键位。"
 			},			
 			{
 				"type": "image",
@@ -95,11 +95,11 @@
 			},
 			{
 				"type": "title",
-				"value": "HUD Display Option"
+				"value": "HUD 显示配置"
 			},
 			{
 				"type": "text",
-				"value": "Click the hud display tab at the bottom of this UI to change how the HUD displays. You can select always, conditionally (when you have a mana-consuming item equipped), or never."
+				"value": "点击书籍 UI 下方的 HUD 显示标签，你可以修改 HUD 的显示方式。你可以选择总是显示，条件触发显示（当你持有或装备可以消耗魔力的物品时），或者从不显示。"
 			},
 			{
 				"type": "image",
@@ -110,11 +110,11 @@
 			},
 			{
 				"type": "title",
-				"value": "Recipes"
+				"value": "配方"
 			},
 			{
 				"type": "text",
-				"value": "When viewing a codex entry, you will often see recipes pinned to the right of the page in blue tabs.  Click these to see how to make the given item."
+				"value": "当阅读古籍时，你常常可以看到书籍的右侧固定着一些配方，它们以蓝底的标签显示在那。点击这些标签，你就可以看到标签上物品的制作方法。"
 			},
 			{
 				"type": "image",
