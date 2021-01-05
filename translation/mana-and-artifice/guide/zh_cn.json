@@ -382,7 +382,7 @@
 			},
 			{
 				"type": "text",
-				"value": "在你畅游于这个奥术世界的旅途中，你必须在某个特定时刻为自己选择一个派系。派系决定了你在进阶时需要完成的仪式的种类。\n\n记住，三思而后行。\n\n一旦选择了特定的派系，就无法做出更改了。\n\n(DEV 事项：下列的玩法还没有完善)\n\n当你于特定的派系结盟之后，其余的两个派系会将你视为敌人，因此它们会派出杀手来尝试暗杀你。当你击败了这些杀手之后，你将会获得本派系的声望，从而解锁额外的交易和资源。"
+				"value": "在你畅游于这个奥术世界的旅途中，你必须在某个特定时刻为自己选择一个派系。派系决定了你在进阶时需要完成的仪式的种类。\n\n记住，三思而后行。\n\n一旦选择了特定的派系，就无法做出更改了。\n\n(DEV 事项：下列的玩法还没有完善)\n\n当你于特定的派系结盟之后，其余的两个派系会将你视为敌人，因此它们会派出杀手来尝试暗杀你。These assassins are very dangerous and you should make sure you have protective measures before joining a faction.  Raids will become more dangerous as you advance in level and tier"
 			},
 			{
 				"type": "title",
@@ -718,7 +718,7 @@
 			},
 			{
 				"type": "text",
-				"value": "下一步的工作就是使用样板锻造出符文。\n\n当你制作好了符文样板，你还需要一份加热过的温特姆粉末，以及一个作为加工场所的符文铁砧。\n\n将样板放置到铁砧上，再在样板上涂上温特姆粉末。"
+				"value": "下一步的工作就是使用样板锻造出符文。\n\n当你制作好了符文样板，你还需要一份超热温特姆锭，以及一个作为加工场所的符文铁砧。\n\n将样板放置到铁砧上，再在其上放置超热温特姆锭。"
 			},
 			{
 				"type": "image",
@@ -728,7 +728,7 @@
 			},
 			{
 				"type": "text",
-				"value": "现在，拿上你的符文锻造锤，对着已经放置在铁砧上的物品奋力敲打吧。但你要注意，一定要确保所有的东西都放置在了正确的位置，如果你将物品放置在了错误的位置并开始了锻造，那么这些物品将会从铁砧上弹出。\n\n敲打足够多的次数之后，锻造过程就完成了。下一步则是为你的符文附魔。"
+				"value": "现在，拿上你的符文锻造锤，对着已经放置在铁砧上的物品奋力敲打吧。但你要注意，一定要确保所有的东西都放置在了正确的位置，如果你将物品放置在了错误的位置并开始了锻造，那么这些物品将会从铁砧上弹出。\n\n敲打足够多的次数之后，锻造过程就完成了。下一步则是将符文放到织魔祭坛上进行进一步加工，为其附魔。"
 			}
 		],
 		"related_recipes": [
@@ -749,7 +749,8 @@
 				"location": "mana-and-artifice:runeforging/runic_anvil"
 			}
 		]
-	},	"Superheating Vinteum": {
+	},	
+	"Superheating Vinteum": {
 		"category": "runesmithing",
 		"index": -90,
 		"sections": [
@@ -952,7 +953,7 @@
 	"Step 1: Manaweave Enchanting": {
 		"category": "enchantments",
 		"index": -1,
-		"tier": 3,
+		"tier": 2,
 		"sections": [
 			{
 				"type": "title",
@@ -1655,7 +1656,7 @@
 			},
 			{
 				"type": "text",
-				"value": "魔法扫帚被附魔上了自动收集掉落物的能力，它可以收集指定容器周围的掉落物，并将掉落物放入容器内。这一造物用处很大。我在想，我能不能再造出一点新玩意？"
+				"value": "魔法扫帚被附魔上了自动收集掉落物的能力，它可以收集指定容器周围的掉落物，并将掉落物放入容器内。这一造物用处很大。我在想，我能不能再造出一点新玩意？\n\nI can collect the broom again if I sneak up on it and grab it (right click)."
 			}
 		],
 		"related_recipes": [
@@ -2310,7 +2311,7 @@
 			},
 			{
 				"type": "text",
-				"value": "在魔法的领域里，许多操作都需要消耗一定的资源，而这一资源就叫做“魔力”。你的最大魔力值取决于你的魔法等级，每次魔法等级提升都会增加你的魔力上限。也有消息称，一些特殊的饰品、附魔、药水可以增加你的最大魔力值。\n\n无论你的最大魔力值是多少，60秒就足以将你的魔力从0恢复至满值。然而，操控魔法本身是一件比较累人的事，所以想要维持这一回复速度，你还得吃好，吃饱！"
+				"value": "在魔法的领域里，许多操作都需要消耗一定的资源，而这一资源就叫做“魔力”。你的最大魔力值取决于你的魔法等级，每次魔法等级提升都会增加你的魔力上限。也有小道消息称，一些特殊的饰品、附魔、药水可以增加你的最大魔力值。\n\n无论你的最大魔力值是多少，60秒就足以将你的魔力从0恢复至满值。然而，操控魔法本身是一件比较累人的事，所以想要维持这一回复速度，你还得吃好，吃饱！Your mana bar is shown at the top left of the screen by default, along with your magic experience and your current magic level."
 			}
 		]
 	}, 
@@ -2354,7 +2355,7 @@
 			},
 			{
 				"type": "text",
-				"value": "当你创造了几个法术之后，你就会苦恼于找不到地方来放置这些法术。\n\n你可以按下 X 或者 Z 键来切换法术书内的法术， 当然，你必须先装备法术书才能这样操作。"
+				"value": "当你创造了几个法术之后，你就会苦恼于找不到地方来放置这些法术。\n\nThe spell book spells can be switched between by holding Z and selecting a spell from the wheel."
 			}
 		],
 		"related_recipes": [
@@ -2367,7 +2368,7 @@
 	"Grimoires": {
 		"index": -95,
 		"category": "sorcery",
-		"tier": 5,
+		"tier": 3,
 		"sections": [
 			{
 				"type": "title",
@@ -2375,10 +2376,14 @@
 			},
 			{
 				"type": "text",
-				"value": "法术书确实很好，但我能否找到某种方法，将我的法术书绑定到特定的织魔印记中呢？如果我不小心遗失了这本书，又或者破坏了这本书，我又可以从印记中召回我的书，这一过程不会丢失书上分毫的内容。\n\n一定有某种方法可以做到这件事。\n\nFor the pre-alpha, the combination is Horarium, Aeternum, Propterea Anguli."
+				"value": "法术书确实很好，但我能否找到某种方法，将我的法术书绑定到特定的织魔印记中呢？如果我不小心遗失了这本书，又或者破坏了这本书，我又可以从印记中召回我的书，这一过程不会丢失书上分毫的内容。\n\n一定有某种方法可以做到这件事。Maybe even with a cantrip."
 			}
 		],
 		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/sorcery/cantrip_book"
+			}
 		]
 	},
 	"Book of Rote": {
@@ -2489,7 +2494,7 @@
 			},
 			{
 				"type": "text",
-				"value": "普通纸张无法承载法术配方，皮纸似乎是一个更好的选择。在水中稍微处理一下皮革，皮纸就做好了。"
+				"value": "普通纸张无法承载法术配方，皮纸似乎是一个更好的选择。在水中稍微处理（右键）一下皮革，皮纸就做好了。"
 			},
 			{
 				"type": "image",
@@ -2856,7 +2861,7 @@
 			},
 			{
 				"type": "text",
-				"value": "凝聚我的魔力，我可以破坏一些方块。泥土，石头，以及其它方块，都在我的命令下瑟瑟发抖，几近破碎。大地似乎也对我做出了回应，我感到我的脚下在微微的晃动、"
+				"value": "凝聚我的魔力，我可以破坏一些方块。泥土，石头，以及其它方块，都在我的命令下瑟瑟发抖，几近破碎。大地似乎也对我做出了回应，我感到我的脚下在微微的晃动。\n\nIf I put more effort into the spell to increase its magnitude, I can increase what it can break.\n\nI've heard rumors that there are magic rings that can do this for me as well.  I should check back when I've gained some experience."
 			}
 		],
 		"related_recipes": [
@@ -3088,7 +3093,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我反复思考：如何开发火焰法术的更多功用？我知晓许多火焰所能能办到的独特用处：温暖，烧煮食物，工业，等等。但火焰是否能应用于恢复生命值？我认为，只要足够小心地操控火焰，就能够用其封闭我的伤口。火焰尽管会在烧灼我的那一瞬间对我造成伤害，但在此之后却能带给我更大的益处。\n\n增强 1：造成伤害 2，治疗生命值 4\n\n增强 2：造成伤害 4，治疗生命值 8\n\n增强 3：造成伤害 8，治疗生命值 16"
+				"value": "我反复思考：如何开发火焰法术的更多功用？我知晓许多火焰所能能办到的独特用处：温暖，烧煮食物，工业，等等。但火焰是否能应用于恢复生命值？我认为，只要足够小心地操控火焰，就能够用其封闭我的伤口。火焰尽管会在烧灼我的那一瞬间对我造成伤害，但在此之后却能带给我更大的益处。\n\n增强 1：造成伤害 2，治疗生命值 4\n\n增强 2：造成伤害 4，治疗生命值 8\n\n增强 3：造成伤害 8，治疗生命值 16\n\nWARNING: This can only be crafted by those allied with the Demons of the Nether."
 			}
 		],
 		"related_recipes": [
@@ -3748,7 +3753,7 @@
 			},
 			{
 				"type": "text",
-				"value": "这一效果极为耗费魔力，但是如果我能集聚足够多的魔力，我便能让我的伤口瞬间愈合，这在某些时候可是能救命的。"
+				"value": "这一效果极为耗费魔力，但是如果我能集聚足够多的魔力，我便能让我的伤口瞬间愈合，这在某些时候可是能救命的。\n\nWARNING: This can only be crafted by those allied with the Fey Courts."
 			}
 		],
 		"related_recipes": [
@@ -3831,6 +3836,26 @@
 			{
 				"type": "ritual",
 				"location": "mana-and-artifice:rituals/aurora"
+			}
+		]
+	},
+	"Locating": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ritual of Locating"
+			},
+			{
+				"type": "text",
+				"value": "This ritual will enchant a compass to find a structure, village, or biome.  Trade with Cartographer villagers to get the Thaumaturgic Link items needed to set what you're trying to locate.  Any modded structure, biome, etc should work.\n\nDEV NOTE:  The cartographer thing is temporary, I have another solution in mind that I'm working on."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/locating"
 			}
 		]
 	},
@@ -3967,7 +3992,7 @@
 	"Summoning": {
 		"index": 0,
 		"category": "rituals",
-		"tier": 5,
+		"tier": 3,
 		"sections": [
 			{
 				"type": "title",
@@ -3992,7 +4017,7 @@
 	"Visiting": {
 		"index": 0,
 		"category": "rituals",
-		"tier": 5,
+		"tier": 3,
 		"sections": [
 			{
 				"type": "title",
@@ -4038,7 +4063,8 @@
 				"location": "mana-and-artifice:manaweaving/rituals/world_charm"
 			}
 		]
-	},	"Motes": {
+	},	
+	"Motes": {
 		"category": "rituals",
 		"index": -1,
 		"sections": [
@@ -4157,7 +4183,7 @@
 			},
 			{
 				"type": "text",
-				"value": "在你摹画织魔图样时，如果附近没有织魔祭坛或者需求织魔的仪式，各图样就会与附近的图样相互融合。这一反应可被用于特殊的用途，例如召唤魔导书。"
+				"value": "在你摹画织魔图样时，如果附近没有织魔祭坛或者需求织魔的仪式，各图样就会与附近的图样相互融合。这一反应可被用于特殊的用途，例如召唤魔导书。 once you reach Tier 5."
 			}
 		],
 		"related_recipes": [
@@ -4619,32 +4645,33 @@
 			},
 			{
 				"type": "title",
-				"value": "Knockback"			},
-				{
+				"value": "Knockback"
+			},
+			{
 					"type": "text",
 					"value": "Increases knockback strength of each bolt."
-				},
-				{
+			},
+			{
 					"type": "title",
 					"value": "Multishot"
-				},
-				{
+			},
+			{
 					"type": "text",
 					"value": "Allows attacking multiple targets per shot."
-				},
-				{
+			},
+			{
 					"type": "title",
 					"value": "Quick Charge"
-				},
-				{
+			},
+			{
 					"type": "text",
 					"value": "Fires more often."
-				},
-				{
+			},
+			{
 					"type": "title",
 					"value": "Smite"
-				},
-				{
+			},
+			{
 					"type": "text",
 					"value": "Applies weakness and slow to undead targets equal to the enchantment level."
 			}
@@ -4885,7 +4912,7 @@
 		]
 	},
 	"Rings of Breaking": {
-		"index": 0,
+			"index": 0,
 			"category": "artifice",
 			"sections": [
 				{
@@ -4991,7 +5018,7 @@
 	"Step 2: Runeforge Enchanting": {
 		"category": "enchantments",
 		"index": -1,
-		"tier": 3,
+		"tier": 2,
 		"sections": [
 			{
 				"type": "title",
@@ -5201,7 +5228,7 @@
 			},
 			{
 				"type": "text",
-				"value": "这一仪式会开启一场来自巫师议会的会议。通过这样的方式，你可以与巫师议会结盟，以换取它们对于高等魔法的知识。\n\nOnce you have summoned the council, stand in the center of them to receive their blessing, if you believe you are worthy.\n\n与这样的生物进行结盟，会使你与其它派系变为敌对关系。"
+				"value": "这一仪式会开启一场来自远古巫师议会的秘密会议。通过这样的方式，你可以与巫师议会结盟，以换取它们对于高等魔法的知识。\n\nOnce you have summoned the council, stand in the center of them to receive their blessing, if you believe you are worthy.\n\n与这样的生物进行结盟，会使你与其它派系变为敌对关系。"
 			}
 		],
 		"related_recipes": [
@@ -5424,7 +5451,8 @@
 				"location": "mana-and-artifice:brazier"
 			}
 		]
-	},	"Slipstream Generator": {
+	},	
+	"Slipstream Generator": {
 		"index": "0",
 		"category": "artifice",
 		"sections": [
@@ -5525,7 +5553,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The primary choice for village golem material, iron has seen a significant amount of use.  It is more resilient than stone, it sinks faster, moves slower, and resists being knocked back more."
+				"value": "The primary choice for village golem material, iron has seen a significant amount of use.  It is more resilient than stone, it sinks faster, moves slower, and resists being knocked back more. Iron constructs unlock at Tier 3."
 			},
 			{
 				"type": "text",
@@ -5538,7 +5566,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Gold constructs are very similar to iron constructs, with a little more knockback resistance at the expense of health."
+				"value": "Gold constructs are very similar to iron constructs, with a little more knockback resistance at the expense of health. Gold constructs unlock at Tier 3."
 			},
 			{
 				"type": "text",
@@ -5551,7 +5579,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Obsidian constructs are the ultimate in resilience.  However they sink extremely quickly and move very slowly."
+				"value": "Obsidian constructs are the ultimate in resilience.  However they sink extremely quickly and move very slowly.  Obsidian constructs unlock at Tier 4."
 			},
 			{
 				"type": "text",
@@ -5718,60 +5746,60 @@
 				"location": "mana-and-artifice:construct_diagnostics_rod"
 			}
 		]
-			},
-			"Command: Take Item": {
-				"index": 4,
-				"tier": 2,
-				"category": "constructs",
-				"sections": [
-					{
+	},
+	"Command: Take Item": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
 				"type": "title",
-				"value": "命令：拿取物品"
+				"value": "Command: Take Item"
 			},
 			{
 				"type": "text",
 				"value": "This command will cause the construct to take an item out of the specified inventory.  The marking rune specifies the side and position of the container to search.  The filter is optional, and will take any item if left blank.  It requires the construct have at least one grabber arm to hold the item, and it can't already have something in it.  If you give a construct two hands and want to fill both, you will need to use this command twice in a row.  This command will pause if the construct has no grabber or all grabber are full, and it will wait until that changes."
 			}
 		]
-			},
-			"Command: Place Item": {
-				"index": 4,
-				"tier": 2,
-				"category": "constructs",
-				"sections": [
-					{
+	},
+	"Command: Place Item": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
 				"type": "title",
-				"value": "命令：放置物品"
+				"value": "Command: Place Item"
 			},
 			{
 				"type": "text",
 				"value": "This command will cause the construct to place all held items in the given container, from the given side marked by the marking rune.  This command will be skipped if the construct doesn't have anything held."
 			}
 		]
-			},
-			"Command: Runescribe": {
-				"index": 4,
-				"tier": 2,
-				"category": "constructs",
-				"sections": [
-					{
+	},
+	"Command: Runescribe": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
 				"type": "title",
-				"value": "命令：符文刻印"
+				"value": "Command: Runescribe"
 			},
 			{
 				"type": "text",
 				"value": "This command will cause the construct to attempt to chisel the pattern specified into a blank rune pattern at the given Runescribing table.  It requires that the necessary materials are already present.  This will require a hammer arm on the Construct.  The better the material, the faster the construct will work."
 			}
 		]
-			},
-			"Command: Forge": {
-				"index": 4,
-				"tier": 2,
-				"category": "constructs",
-				"sections": [
-					{
+	},
+	"Command: Forge": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
 				"type": "title",
-				"value": "命令：符文锻造"
+				"value": "Command: Runeforge"
 			},
 			{
 				"type": "text",
@@ -5821,6 +5849,96 @@
 			{
 				"type": "text",
 				"value": "This command will cause the construct to attempt to simulate a player right clicking on the block at the specified location.  It is useful for things like buttons and levers.  It does not require any specific parts."
+			}
+		]
+	},	
+	"Command: Move": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Command: Move"
+			},
+			{
+				"type": "text",
+				"value": "This command will cause the construct to move to the given location.  It does not require any specific parts, but can be useful for things like forcing triggering of pressure plates."
+			}
+		]
+	},	
+	"Command: Patrol": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Command: Patrol"
+			},
+			{
+				"type": "text",
+				"value": "This command will cause the construct to patrol among one to four points specified, attacking enemies it sees along the way (if it is capable of doing so).  At each point, it will remain for 5 seconds before continuing on to the next.  At the end of the final point, it will continue any other tasks within the lodestar before returning to patrol.  It's a particularly good use of time if you're having your construct wait for something."
+			}
+		]
+	},	
+	"Command: Breed": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Command: Breed"
+			},
+			{
+				"type": "text",
+				"value": "This command will cause the construct to attempt to use the item in its hand to breed animals within its radius.  For example, use a Take Item command to have the construct collect wheat, then use this command with a radius that includes cows or sheep.  The construct will breed them as long as the following conditions are met:\n\n1.) There are at least 2 adult animals in the detection area that can breed\n2.)The construct has at least 2 of their breeding items in its hands.\n\nIf either of those conditions are not met, this task will be skipped.  The construct needs to have the carrying capability in order to perform this task."
+			}
+		]
+	},
+	"Command: Butcher": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Command: Butcher"
+			},
+			{
+				"type": "text",
+				"value": "This command will cause the construct to kill adult animals within the specified range as long as there are more than 2 adults."
+			}
+		]
+	},	
+	"Command: Place Block": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Command: Place Block"
+			},
+			{
+				"type": "text",
+				"value": "This command will cause the construct to place the block that it currently has in its hand (use a Take Item command to get one there) at the given location, provided it is a block or an item that creates a block (like seeds or saplings).  The construct needs to have  the carrying capability in order to do this task."
+			}
+		]
+	},	
+	"Command: Chop Trees": {
+		"index": 4,
+		"tier": 2,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Command: Chop Trees"
+			},
+			{
+				"type": "text",
+				"value": "This command will cause the construct to chop down trees within the specified area.  Only the bases of the trees need to be included for the tree to be targeted.  The construct needs an axe arm in order to perform this action."
 			}
 		]
 	},	
@@ -5913,6 +6031,60 @@
 					"mana-and-artifice:manaweaving/constructs/diamond/diamond_bladed_arm_right",
 					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_bladed_arm_right"
 				]
+			},
+			{
+				"type":"runescribing",
+				"location":"mana-and-artifice:runescribing/constructs/runescribe_construct_rod"
+			},
+			{
+				"type":"runesmithing",
+				"location":"mana-and-artifice:runeforging/constructs/runeforge_construct_rod"
+			}
+		]
+	},
+	"Construct Axe Arm": {
+		"index": "3",
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Construct Axe Arms"
+			},
+			{
+				"type": "text",
+				"value": "Construct axe arms allow for moderate attacks and chopping down trees."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/constructs/wood/wood_axe_arm_left",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_axe_arm_left",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_axe_arm_left",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_axe_arm_left",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_axe_arm_left",
+					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_axe_arm_left"
+				]
+			},
+			{
+				"type": "manaweaving_altar",
+				"locations": [
+					"mana-and-artifice:manaweaving/constructs/wood/wood_axe_arm_right",
+					"mana-and-artifice:manaweaving/constructs/stone/stone_axe_arm_right",
+					"mana-and-artifice:manaweaving/constructs/iron/iron_axe_arm_right",
+					"mana-and-artifice:manaweaving/constructs/gold/gold_axe_arm_right",
+					"mana-and-artifice:manaweaving/constructs/diamond/diamond_axe_arm_right",
+					"mana-and-artifice:manaweaving/constructs/obsidian/obsidian_axe_arm_right"
+				]
+			},
+			{
+				"type":"runescribing",
+				"location":"mana-and-artifice:runescribing/constructs/runescribe_construct_axe"
+			},
+			{
+				"type":"runesmithing",
+				"location":"mana-and-artifice:runeforging/constructs/runeforge_construct_axe"
 			},
 			{
 				"type":"runescribing",
