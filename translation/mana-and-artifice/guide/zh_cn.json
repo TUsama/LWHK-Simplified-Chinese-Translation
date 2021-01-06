@@ -125,11 +125,11 @@
 			},
 			{
 				"type": "title",
-				"value": "Pinning Recipes"
+				"value": "固定配方显示"
 			},
 			{
 				"type": "text",
-				"value": "When viewing a recipe, in the top left you will see a pin icon.  Click this to pin a recipe to the HUD.  This recipe will show even when the codex is closed.  Click any pin on a recipe again to hide it."
+				"value": "当你在查阅配方时，你可以在配方页面的左上方看到一个固定按钮。点击该按钮之后可以将此配方固定在 HUD 上。即便古籍关闭，该配方仍能够继续显示。再次点击任何配方页面的固定按钮，可以关闭先前的配方固定显示。"
 			}
 		],
 		"related_recipes": [
@@ -172,7 +172,7 @@
 			},
 			{
 				"type": "text",
-				"value": "魔力编织需要高度的专注，而专注需要耗费大量魔力。摹画的时候请务必保持心平气和，因为焦虑只会让你不断地失误：摹画失败的图案将不会起任何作用。\n\n据说一些法师在使用织魔者法杖时，表示自己听到了清脆的铃声，尽管我们不能确认是否真的有法师这样子说过，但可以确定的是，这一铃声表明了织魔者法杖正在工作。\n\n也有一些法师无法或者不愿意在空气中绘制图形。在如此的需求下，织魔放映机应运而生。将其放置于地上，它就会抽取你（或者是其他人，只要靠得够近）体内的魔力反哺自身。当放映机激活后，他就可以放映出图样，当然，你需要在放映机激活前就选择好需要放映的图样。"
+				"value": "魔力编织需要高度的专注，而专注需要耗费大量魔力。当你在摹画时，请务必保持心平气和，因为焦虑只会让你不断地失误：摹画失败的图样将不会起任何作用。\n\n据说一些法师在使用织魔者法杖时，表示自己听到了清脆的铃声，尽管我们不能确认是否真的有法师这样子说过，但可以确定的是，这一铃声表明了织魔者法杖正在工作。\n\n也有一些法师无法或者不愿意在空气中绘制图形。在如此的需求下，织魔放映机应运而生。将其放置于地上，它就会抽取你（或者是其他人，只要靠得够近）体内的魔力反哺自身。当放映机激活后，他就可以放映出图样，当然，你需要在放映机激活前就选择好需要放映的图样。"
 			},
 			{
 				"type": "image",
@@ -207,7 +207,7 @@
 			},
 			{
 				"type": "text",
-				"value": "As you cast spells, you begin to learn more about their properties and how they work.  You can see rote progress for each individual spell part (shapes, components, and modifiers) in the Occulus.\n\nThese parts gain experience at different rates.  Once they are rote, you can use them in a book of rote to make spells with single shapes and multiple components.\n\nModifiers that you learn by rote are always available in rote spells, allowing you to make spells with more components and modifiers than you would normally be able to using the Inscription Table.\n\nThere is no crafting process or material cost when making spells in the book of rote, as it represents your memorization of the spell.  You simply make the spell you need at the time."
+				"value": "当你在施放法术的过程中，你会逐渐的对法术的性质以及其工作原理有所领会。你可以在神秘核心中查看你对于每个独立的法术构件（形状，效果，以及修饰）的熟记程度。\n\n每个部件有着不同的获得熟记经验的几率。一旦你讲某些构件熟记于心，你就可以在book of rote中使用单个形状构件以及多个效果构件创造新法术了。\n\n你也可以将你所熟记的修饰构件应用于熟记法术上，如此一来，相较于在编写桌内编写的法术，这样创造的法术可以包含更多的效果以及修饰构件。\n\n在the book of rote内编写的法术没有合成过程以及材料消耗，因为这些法术你早已烂熟于心。任何时刻，只要需要，你就能创造出新法术自给自足。"
 			}
 		],
 		"related_recipes": [
@@ -258,11 +258,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Runeforge"
+				"value": "符文锻造炉"
 			},
 			{
 				"type": "text",
-				"value": "The runeforge is a magical furnace that runs on ambient magic in the air.  It requires no additional fuel source.  It has a few of its own recipes, but will also do campfire recipes in half the time, furnace recipes in twice the time, and blast furnace recipes in twice the time.\n\nIt will accept up to 16 items at a time, but the total cook time is multiplied by the number of items in it."
+				"value": "符文锻造炉是一种魔法熔炉，以空气中流淌的原生魔力作为燃料，因此它不再需要额外的燃料提供。它的特有配方数量不多，但它也兼容营火，熔炉以及高炉的配方，其中，营火配方的进行速度为营火的两倍，但熔炉和高炉配方的进行速度只有原版的一半。\n\n它可以一次性接受 16 个物品，但总工作时间为单个物品时间乘以物品数量。"
 			}
 		],
 		"related_recipes": [
@@ -278,11 +278,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Bone Ash"
+				"value": "骨灰"
 			},
 			{
 				"type": "text",
-				"value": "The runeforge's heat is able to break down bones into a fine ash.  I should be able to use this ash for multiple magical purposes."
+				"value": "符文锻造炉的高温可以将骨头烧制成细细的骨灰。这些骨灰可能会在一些魔法中有作用。"
 			}
 		],
 		"related_recipes": [
@@ -298,31 +298,31 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Commands"
+				"value": "指令"
 			},
 			{
 				"type": "text",
-				"value": "This mod contains several commands that moderators can use to help those on servers, or to test in creative mode."
+				"value": "本模组添加了一些指令，大抵可以在服务器中发挥作用，亦或者用于创造模式测试。"
 			},
 			{
 				"type": "text",
-				"value": "/setMagicLevel [0-75] <player>\nSets a player's magic level and max mana."
+				"value": "/setMagicLevel [0-75] <player>\n设置玩家的魔法等级以及魔力最大值。"
 			},
 			{
 				"type": "text",
-				"value": "/setFaction [faction_id] <player>\nSets a player's faction.  For some reason this won't autocomplete on servers because forge, but the valid factions are:  NONE, DEMONS, FEY_COURT, ANCIENT_WIZARDS"
+				"value": "/setFaction [faction_id] <player>\n设置玩家的派系。因为某些与 forge 有关的原因，这条指令无法在服务器中使用自动补全功能，但你还可以手动补全，可供选择的有：NONE（无）, DEMONS（恶魔）, FEY_COURT（仙女之庭）, ANCIENT_WIZARDS（远古议会巫师）"
 			},
 			{
 				"type": "text",
-				"value": "/completeProgression <player>\nCompletes all occulus tasks for a player at their current tier (this essentially enables the progression rituals)."
+				"value": "/completeProgression <player>\n使特定玩家完成其当前等阶在神秘核心内所显示的待完成工作。 (this essentially enables the progression rituals)."
 			},
 			{
 				"type": "text",
-				"value": "/setTier [1-5] <player>\nSets a player tier, including what recipes they have access to."
+				"value": "/setTier [1-5] <player>\n设置一名玩家的等阶。也包括对应等阶所开放的配方。"
 			},
 			{
 				"type": "text",
-				"value": "/makeRote [part_id] <player>\nMakes a spell part rote for the given player, allowing it to be used in the Book of Rote.  This command's autocomplete won't work on servers because forge."
+				"value": "/makeRote [part_id] <player>\n使得特定玩家熟记该构件。能让其在Book of Rote内使用该构件。因为某些与 forge 有关的原因，这条指令无法在服务器中使用自动补全功能。。"
 			}
 		],
 		"related_recipes": []
@@ -333,11 +333,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Vinteum"
+				"value": "温特姆"
 			},
 			{
 				"type": "text",
-				"value": "I'm not sure what causes this seemingly coalesced arcane energy to gather in certain stones underground."
+				"value": "这种凝聚于地底特定石头中的奥术能量是怎么来的？"
 			},
 			{
 				"type": "item",
