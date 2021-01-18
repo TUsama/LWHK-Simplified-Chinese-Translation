@@ -23,7 +23,7 @@
 
 	"item.mana-and-artifice.cantrip_book":"Cantrip Book",
 	"item.mana-and-artifice.cantrip_book.confusion":"You scan across the pages of the book but can't make sense of the contents.  You will need to learn more before you can use it.",
-	"item.mana-and-artifice.chimerite_gem":"空想宝石",
+	"item.mana-and-artifice.chimerite_gem":"秘鸣石",
 	"item.mana-and-artifice.component_pouch":"符文组件袋",
 	"item.mana-and-artifice.crystal_phylactery":"水晶护符",
 
@@ -513,7 +513,7 @@
 	"mana-and-artifice:components/lightning_damage":"雷电伤害",
 	"mana-and-artifice:components/shield":"护盾",
 	"mana-and-artifice:components/leap":"跳跃",
-	"mana-and-artifice:components/fling":"飞行",
+	"mana-and-artifice:components/fling":"排斥",
 	"mana-and-artifice:components/gust":"狂风",
 	"mana-and-artifice:components/silence":"沉默",
 	"mana-and-artifice:components/gravity_well":"重力井",

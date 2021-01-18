@@ -789,7 +789,7 @@
 			},
 			{
 				"type": "text",
-				"value": "If I can coat iron with vinteum dust and smelt it to get bars, I should be able to do something similar with purified vinteum dust.  I just need to remember to smelt the purified vinteum coated iron in a furnace or blast furnace too."
+				"value": "如果我可以将温特姆粉末覆在铁锭上，然后再能将它烧制成温特姆锭，那么，纯净温特姆粉末应该也能够进行相似的操作。可别忘了：纯净温特姆覆膜铁锭也得放在熔炉或者高炉内烧制。"
 			}
 		],
 		"related_recipes": [
@@ -810,35 +810,35 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Automation: Sided Inventories"
+				"value": "自动化相关：物品栏接收面"
 			},
 			{
 				"type": "text",
-				"value": "Sided Inventories determine which sides of inventories can accept items.  This is important, because when marking a block with a Rune of Marking, the side is also stored as well as the location.  Other mods that use automation can also make use of this functionality.  The following is an explanation of which blocks input/output on which sides."
+				"value": "物品栏接收面决定了物品栏在哪一面上接收物品。这十分重要，因为当你在用标记符文标记某个方块时，你所标记的面会与坐标同时被记录下来。其它可以对其进行自动化操作的模组也可以使用这一功能。下面的章节中给出了各个方块的各个面与其物品栏的对应关系。"
 			},
 			{
 				"type": "title",
-				"value": "Runescribing Table"
+				"value": "符文刻印桌"
 			},
 			{
 				"type": "text",
-				"value": "The runescribing table can accept hammers and chisels from the sides, and patterns from the top and bottom.  The same goes for extracting items."
+				"value": "符文刻印卓可从侧面接收符文刻印凿和符文刻印锤，顶部和底部可以接收各类样板，也可以提取出桌内物品。"
 			},
 			{
 				"type": "title",
-				"value": "Runic Anvil"
+				"value": "符文铁砧"
 			},
 			{
 				"type": "text",
-				"value": "The runic anvil will accept items from any side, and provide items from any side."
+				"value": "符文铁砧的任意面都可以提取物品和接收物品。"
 			},
 			{
 				"type": "title",
-				"value": "Runeforge"
+				"value": "符文锻炉"
 			},
 			{
 				"type": "text",
-				"value": "The runeforge will accept items from any side if it is empty.  It will provide items from any side as long as it isn't currently cooking."
+				"value": "在不含内容物的情况下，符文锻炉可从任意面接收物品，当其不在工作状态时，它的任意面都可以提取物品。"
 			}
 		]
 	},
@@ -849,11 +849,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Sample Automation: Forge Rune"
+				"value": "自动化样例：符文锻造"
 			},
 			{
 				"type": "text",
-				"value": "One of the first things you should consider automating is rune production.  This will give you a simplistic sample logic flow within the lodestar to forge runes automatically.\n\nYou'll need to figure out some method to supply the input chest."
+				"value": "符文制造可以作为你的第一个自动化练习小项目。只需在lodestar中写入极为简单的逻辑 ，即可完成符文锻造的自动化。 \n\n但是，你得自己解决输入的自动化方案。"
 			},
 			{
 				"type": "title",
@@ -2909,7 +2909,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我可以操控空气降低我的降落速度，我也可以利用类似的操作将敌人推开。这一构件可以用来赶走那些试图鬼鬼祟祟地接近你的苦力怕，当然，手速要够快。"
+				"value": "我可以操控空气降低我的降落速度，那我也可以利用类似的操作将敌人推开。这一构件可以用来赶走那些试图鬼鬼祟祟地接近你的苦力怕，当然，手速要够快。"
 			}
 		],
 		"related_recipes": [
@@ -5695,7 +5695,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The lodestar is a way to set up advanced logic for your constructs.  Use the commands on the left to add them to the logic flow.  Then click on a node in the logic flow to configure it.  Each node uses items to set filters and locations.  Runes of marking are the primary way to indicate positions in the world to interact with.  To remove a command, left click it in the GUI while simultaneously holding the right mouse button.  Any filter or marking items are automatically returned to your inventory, or dropped on the ground if it's full.\n\nThe lodestar can be disabled by applying a redstone signal, and any constructs will pause.  This is useful for making changes or using comparators."
+				"value": "The lodestar可以让你为你的构装体设置高等逻辑。Use the commands on the left to add them to the logic flow.  Then click on a node in the logic flow to configure it.  Each node uses items to set filters and locations.  Runes of marking are the primary way to indicate positions in the world to interact with.  To remove a command, left click it in the GUI while simultaneously holding the right mouse button.  Any filter or marking items are automatically returned to your inventory, or dropped on the ground if it's full.\n\nThe lodestar can be disabled by applying a redstone signal, and any constructs will pause.  This is useful for making changes or using comparators."
 			}
 		],
 		"related_recipes": [
